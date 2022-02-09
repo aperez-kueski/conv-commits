@@ -9,8 +9,12 @@
   "keywords": [
     "conventional",
     "poc",
-    "commits"
+    "commits",
+    "standardize"
   ],
   "author": "Angel Perez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "conventional-changelog-cli": "^2.2.2"
+  }
 }
